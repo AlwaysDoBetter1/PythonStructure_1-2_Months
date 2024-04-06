@@ -1,11 +1,21 @@
 1)Reviewing the basic Python constructs(Preivous months)
+
 2)Bool data type and NoneType
+
 3)Nested lists, matrices
-Tuples
-Sets
-Dictionaries
-random and string modules
-Decimal, fractions and complex modules
-Working with graphics, turtle module 🐢
-Functions
-Working with files
+
+4)Tuples
+
+5)Sets
+
+6)Dictionaries
+
+7)Random and string modules
+
+8)Decimal, fractions and complex modules
+
+9) Working with graphics, turtle module 🐢
+
+10) Functions
+
+11)Working with files
